@@ -1,6 +1,6 @@
 # Web Programming Final Project
 
-<br>웹프로그래밍실습 (SWE3048_42) Final Project
+웹프로그래밍실습 (SWE3048_42) Final Project
 
 ## 프로젝트 소개
 Next.js를 사용해서 만든 Notion 사이트<br>
