@@ -1,18 +1,18 @@
 # Web Programming Final Project
 
-웹프로그래밍실습 (SWE3048_42) Final Project
+Web Programming Practice (SWE3048_42)
 
-## 프로젝트 소개
-Next.js를 사용해서 만든 Notion 사이트<br>
+## 🚀 Project Overview
+A Notion-style web application built with Next.js, featuring note management, user authentication, and customizable themes.<br>
 
-## 기능 소개
-**기본 기능**
-+ Login / Register
+## 📝 Features
+**🔹 Core Features**
++ User Login / Register
 + Add New Note
 + Modify Note
 + Delete Note
 
-**추가 기능**
+**✨ Additional Features**
 + Search
 + Profile Image
 + Comment
@@ -20,12 +20,12 @@ Next.js를 사용해서 만든 Notion 사이트<br>
 + Theme / Font Change
 + Music Embed
 
-## 실행 방법
+## ⚡ Getting Started
 ```
 npm install
 npm run dev
 ```
-<br> prisma db 실행
+<br> Start Prisma Studio (for database management)
 ```
 npx prisma studio
 ```
