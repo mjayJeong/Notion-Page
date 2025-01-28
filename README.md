@@ -1,6 +1,6 @@
 # Web Programming Final Project
 
-Web Programming Practice (SWE3048_42)
+Web Programming Lab (SWE3048_42)
 
 ## 🚀 Project Overview
 A Notion-style web application built with Next.js, featuring note management, user authentication, and customizable themes.<br>
