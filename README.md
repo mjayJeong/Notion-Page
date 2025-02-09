@@ -3,7 +3,8 @@
 Web Programming Lab (SWE3048_42)
 
 ## 🚀 Project Overview
-A Notion-style web application built with Next.js, featuring note management, user authentication, and customizable themes.<br>
+A Notion-style web application built with Next.js<br>
+Featuring note management, user authentication, and customizable themes.<br>
 
 ## 📝 Features
 **🔹 Core Features**
